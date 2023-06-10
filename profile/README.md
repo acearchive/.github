@@ -1,5 +1,5 @@
-[Ace Archive](https://acearchive.lgbt) is a project to build an online archive
-for preserving queer history. You can learn more about the project
+[Ace Archive](https://acearchive.lgbt) is an online archive of asexual and
+aromantic history. You can learn more about the project
 [here](https://acearchive.lgbt/about/).
 
 If you're looking for ways to contribute, check out our [contributing
