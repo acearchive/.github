@@ -8,3 +8,7 @@ documentation](https://acearchive.lgbt/contribute/).
 
 Want to dig into the code? Start
 [here](https://github.com/acearchive/acearchive.lgbt#readme).
+
+Bugs, features, and other code-related issues across the project are
+centralized in [this
+repo](https://github.com/acearchive/acearchive.lgbt/issues).
